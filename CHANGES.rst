@@ -4,12 +4,10 @@ Changelog
 1.5.2 (2015-07-16)
 ------------------
 
-Fixes:
-
-- Changed font-weight for recurrence field label and added margin to actions.
+- Changed font-weight for recurrence field label and added marging to actions.
   [agitator]
 
-- Changed Add, Edit and Delete to be buttons instead of links.
+- Change Add, Edit and Delete to be buttons instead of links.
   See https://github.com/plone/Products.CMFPlone/issues/655.
   [pbauer]
 
